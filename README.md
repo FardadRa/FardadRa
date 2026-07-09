@@ -1,54 +1,91 @@
 # Hi, I'm Fardad Rashidian 👋
 
-Software Engineering graduate from York University with experience in Technical Analysis, Application Support, QA Testing, REST APIs, SQL, and full-stack development.
+Software Engineering graduate from York University with experience in **Technical Analysis, Application Support, QA Testing, REST API development, SQL, and full-stack software engineering**.
 
-## About Me
-
-- 🎓 Bachelor of Engineering in Software Engineering (Security Stream)
-- 💻 Interested in Technical Analyst, Application Support, QA Analyst, Production Support, and Software Engineering roles
-- 📍 Toronto, Ontario, Canada
-
-## Technical Skills
-
-### Languages
-Java • JavaScript • Python • SQL
-
-### Backend
-Node.js • Express.js • REST APIs • PostgreSQL
-
-### Frontend
-React • React Native • HTML • CSS
-
-### Testing
-Postman • Browser Developer Tools • Functional Testing • API Testing • Bug Reporting
-
-### Tools
-Git • GitHub • Linux
-
-## Featured Projects
-
-### StudentHUB – Academic Management Platform
-
-- React Native
-- Express.js
-- PostgreSQL
-- REST APIs
-- OpenAI API
-
-Built a full-stack student platform with authentication, course scheduling, department management, and an AI-powered academic assistant.
+I enjoy troubleshooting software issues, building backend systems, developing RESTful APIs, testing application functionality, and designing reliable software solutions. I'm currently seeking opportunities in **Technical Analyst, Application Support, QA Analyst, Production Support, or Junior Software Developer** roles.
 
 ---
 
-### SmartTO – Affordable Long-Range EV Dashboard
+## 🎓 Education
+
+**Bachelor of Engineering (B.Eng.) – Software Engineering (Security Stream)**  
+York University
+
+📍 Toronto, Ontario, Canada
+
+---
+
+# 💻 Technical Skills
+
+### Languages
 
 - Java
-- React
+- JavaScript
+- Python
+- SQL
+
+### Backend
+
+- Spring Boot
+- Spring Security
 - Node.js
-- Arduino
-- jSerialComm
+- Express.js
+- REST APIs
+- PostgreSQL
 
-Developed and tested a vehicle dashboard prototype with frontend, middleware, and Arduino integration.
+### Frontend
 
-## Connect with me
+- React
+- React Native
+- HTML
+- CSS
+- JavaScript
 
-- LinkedIn: https://www.linkedin.com/in/fardadrashidian
+### Testing
+
+- Postman
+- API Testing
+- Functional Testing
+- Browser Developer Tools
+- Bug Reporting
+
+### Tools
+
+- Git
+- GitHub
+- Maven
+- Linux
+
+---
+
+# 🚀 Featured Projects
+
+## 🎓 StudentHUB – AI Academic Management Platform
+
+**React Native • Express.js • PostgreSQL • REST APIs • OpenAI API**
+
+Developed a full-stack student platform featuring user authentication, course scheduling, and an AI-powered academic advisor. Designed and implemented the complete AI assistant, including backend APIs, OpenAI integration, PDF processing, York University course data retrieval, and database connectivity.
+
+---
+
+## 🛒 Spring Auction System
+
+**Java • Spring Boot • Spring Security • PostgreSQL • REST APIs**
+
+Independently developed a full-stack auction platform supporting secure user authentication, Forward and Dutch auctions, bidding workflows, catalogue management, payment processing, and PostgreSQL integration using a layered Spring Boot architecture.
+
+---
+
+# 🌱 Currently Learning
+
+- AWS Cloud
+- Docker
+- CI/CD
+- Automated Testing
+- Enterprise Application Support
+
+---
+
+# 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/fardadrashidian
