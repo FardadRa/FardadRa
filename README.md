@@ -76,7 +76,7 @@ Independently developed a full-stack auction platform supporting secure user aut
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 Currently Exploring
 
 - AWS Cloud
 - Docker
