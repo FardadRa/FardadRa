@@ -1,4 +1,4 @@
-# Hi, I'm Fardad Rashidian 👋
+# Hi, I'm Fred Rashidian 👋
 
 Software Engineering graduate from York University with experience in **Technical Analysis, Application Support, QA Testing, REST API development, SQL, and full-stack software engineering**.
 
