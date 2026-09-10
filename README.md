@@ -88,4 +88,4 @@ Independently developed a full-stack auction platform supporting secure user aut
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/fardadrashidian
+- 💼 LinkedIn: https://www.linkedin.com/in/fredrashidian
